@@ -1,0 +1,31 @@
+.env.development
+.env
+credentials.*
+token.*
+.venv
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.development
+.env.production
+*.env
+
+# Credentials
+credentials.json
+token.json
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
