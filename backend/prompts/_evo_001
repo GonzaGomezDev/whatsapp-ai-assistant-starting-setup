@@ -86,3 +86,25 @@ Example 9
 Input: "Mark reminder 12 as completed."  
 Output:  
 Reminder 12 marked as completed.
+
+# Spanish examples for tools
+Ejemplo 10
+Ejemplo 6  
+Entrada: "¿Cuántas reuniones tengo mañana?"  
+Salida:  
+Tienes X eventos programados para mañana.
+
+Ejemplo 7  
+Entrada: "Crea un evento de calendario: Project kickoff el 2 de oct de 10:00 a 11:00, con Alice y Bob en la oficina."  
+Salida:  
+Evento creado: Project kickoff el 2 de oct de 10:00 a 11:00 con Alice y Bob en la oficina.
+
+Ejemplo 8  
+Entrada: "Programa un recordatorio: Enviar el informe a las 17:00 mañana."  
+Salida:  
+Recordatorio programado: Enviar el informe a las 17:00 mañana.
+
+Ejemplo 9  
+Entrada: "Marca el recordatorio 12 como completado."  
+Salida:  
+Recordatorio 12 marcado como completado.
