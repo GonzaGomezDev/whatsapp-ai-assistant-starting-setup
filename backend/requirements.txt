@@ -14,6 +14,7 @@ google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
 langchain
-langraph
+langgraph
+langchain-openai
 langchain_tavily
 langgraph-checkpoint-postgres
